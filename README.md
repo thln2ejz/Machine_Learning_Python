@@ -8,3 +8,9 @@
 <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/supervised_learning_II.html">Supervised Learning II (ANN, SVM, Complexity)</a> ... <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/supervised_learning_II_solution.py">[Solution]</a>  <br>
 <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/regression_.html">Regression</a> ... <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/regression_solution.py">[Solution]</a>  <br>
 <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/gaussian_processes.html">Gaussian processes for regression</a> ... <a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/gaussian_processes_solution.py">[Solution]</a>  <br>
+
+<br> 
+<br>
+<a class="external reference" href="https://thln2ejz.github.io/Machine_Learning_Python/data.tar.bz2">Data files</a><br>
+
+
