@@ -1,5 +1,5 @@
 '''
-unsupervised learning II
+supervised learning II
 @Jimmy Azar
 '''
 
